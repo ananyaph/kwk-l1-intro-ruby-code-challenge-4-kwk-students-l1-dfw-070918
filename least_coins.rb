@@ -17,10 +17,10 @@ end
 
 
 coins = {
-"Quarters" => quarters,
-"Dimes" => dimes,
-"Nickels" => nickels,
-"Pennies" => cents
+:Quarters => quarters,
+:Dimes => dimes,
+:Nickels => nickels,
+:Pennies => cents
 }
 
 puts coins
