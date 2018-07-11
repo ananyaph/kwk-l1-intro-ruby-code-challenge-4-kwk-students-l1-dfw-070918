@@ -14,10 +14,9 @@ end
 if cents/5 > 0 
   nickels = cents/5
   cents = cents % 
-  
 end
   
-  
+if cents/1  
   
   
 coins = {"Quarters" => 
