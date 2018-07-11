@@ -23,10 +23,10 @@ end
 
 
 coins = {
-:Quarters => quarters,
-:Dimes => dimes,
-:Nickels => nickels,
-:Pennies => cents
+:quarters => quarters,
+:dimes => dimes,
+:nickels => nickels,
+:pennies => cents
 }
 
 coins
