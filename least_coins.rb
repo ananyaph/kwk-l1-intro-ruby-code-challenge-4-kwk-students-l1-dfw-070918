@@ -1,4 +1,3 @@
-#write out your code here
 
 def least_coins(cents)
 if cents/25 > 0
