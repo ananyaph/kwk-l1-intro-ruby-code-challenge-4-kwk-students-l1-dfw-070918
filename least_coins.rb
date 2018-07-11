@@ -15,10 +15,11 @@ if cents/5 > 0
   nickels = cents/5
   cents = cents % 
 end
-  
-if cents/1  
-  
-  
-coins = {"Quarters" => 
 
-end
+
+coins = {
+"Quarters" => quarters,
+"Dimes" => dimes,
+"Nickels" => nickels,
+"Pennies" => cents
+}
