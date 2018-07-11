@@ -28,7 +28,9 @@ coins = {
 :Nickels => nickels,
 :Pennies => cents
 }
+ coins
 end
+
 puts coins
 
 
