@@ -13,7 +13,7 @@ end
 
 if cents/5 > 0 
   nickels = cents/5
-  cents = cents % 
+  cents = cents % 5
 end
 
 
