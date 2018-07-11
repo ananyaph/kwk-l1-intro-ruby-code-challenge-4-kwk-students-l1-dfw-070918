@@ -23,3 +23,9 @@ coins = {
 "Nickels" => nickels,
 "Pennies" => cents
 }
+
+puts coins
+
+
+
+
